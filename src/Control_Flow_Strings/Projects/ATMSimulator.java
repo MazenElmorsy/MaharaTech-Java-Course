@@ -1,4 +1,4 @@
-package Control_Flow.Projects;
+package Control_Flow_Strings.Projects;
 
 import java.util.Scanner;
 

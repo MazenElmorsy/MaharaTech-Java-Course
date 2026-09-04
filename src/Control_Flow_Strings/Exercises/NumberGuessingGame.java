@@ -1,4 +1,4 @@
-package Control_Flow.Exercises;
+package Control_Flow_Strings.Exercises;
 
 import java.util.Random;
 import java.util.Scanner;
